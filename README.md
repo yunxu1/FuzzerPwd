@@ -1,9 +1,9 @@
-Ê¹ÓÃ·½·¨£º
-    python FuzzerPwd.py
-    ÇëÊäÈëFuzzerÃÜÂëµÄ¹Ø¼ü×Ö[¶à¸ö¹Ø¼ü×Ö","¸ô¿ª]:word1,word2,word3
+##ä½¿ç”¨æ–¹æ³•ï¼š##
+   * python FuzzerPwd.py
+   * è¯·è¾“å…¥Fuzzerå¯†ç çš„å…³é”®å­—[å¤šä¸ªå…³é”®å­—","éš”å¼€]:word1,word2,word3
 
-³ÌÐò²½Öè£º
-    1.¶ÁÈ¡ÃÜÂëÄ£°åÎÄ¼þ
-    2.½«¹Ø¼ü×ÖÌæ»»Ä£°åÎÄ¼þÄÚÈÝ
-    3.Fuzzer³ö½á¹û£¬Êä³öµ½password.txtÎÄ¼þÖÐ
+ç¨‹åºæ­¥éª¤ï¼š
+    1.è¯»å–å¯†ç æ¨¡æ¿æ–‡ä»¶
+    2.å°†å…³é”®å­—æ›¿æ¢æ¨¡æ¿æ–‡ä»¶å†…å®¹
+    3.Fuzzerå‡ºç»“æžœï¼Œè¾“å‡ºåˆ°password.txtæ–‡ä»¶ä¸­
 
